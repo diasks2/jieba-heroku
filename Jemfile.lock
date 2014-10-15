@@ -1,6 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    jieba-jruby (0.0.1)
     jruby-rack (1.1.4)
     json (1.8.0-java)
     rack (1.4.1)
@@ -20,6 +21,7 @@ PLATFORMS
   java
 
 DEPENDENCIES
+  jieba-jruby
   json
   sinatra
   trinidad
