@@ -1,4 +1,5 @@
 # -*- encoding : utf-8 -*-
+
 # required gem files
 require 'sinatra'
 
