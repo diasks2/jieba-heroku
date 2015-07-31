@@ -1,4 +1,4 @@
-JRuby Sinatra app (deployable to Heroku) for jieba-jruby
+JRuby Sinatra app (deployable to Heroku) for jieba-jruby README
 =======
 
 [jieba-jruby](https://github.com/mimosa/jieba-jruby) is a Chinese NLP tool.
